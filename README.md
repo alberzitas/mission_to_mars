@@ -2,7 +2,9 @@
 
 ## Overview and Purpose
 
-Robin is looking for a way to gather information regarding the amount of water on Mars from all over the web and display it all in one location. She needs to develop a web application that scrapes information using a nonSQL database and Flask. To help her out, we created a python code on Jupyter Notebook that scraped the web for images, news headlines, and facts about mars from a collection of websites. The scraper was run successfully and managed to find many images from across the web of Mars's hemispheres, shown below. 
+Robin is seeking a solution to consolidate information about the water presence on Mars from various online sources and present it in a unified platform. Her goal is to develop a web application that utilizes a nonSQL database and Flask framework. To assist her in this endeavor, we have crafted a Python code in Jupyter Notebook that efficiently scrapes the web for images, news headlines, and facts specifically related to Mars, sourced from multiple websites. The web scraper has been successfully executed, yielding a substantial collection of images showcasing the hemispheres of Mars, which are displayed below.
+
+
 
 ![](hemi_img_urls.png)
 
